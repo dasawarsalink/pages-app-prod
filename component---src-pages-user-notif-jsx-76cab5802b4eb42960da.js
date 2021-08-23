@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmainapp=self.webpackChunkmainapp||[]).push([[5245],{7585:function(e,n,a){a.r(n);var t=a(7378),u=a(5213);n.default=function(){return t.createElement("div",null,t.createElement(u.Z,null))}}}]);
+//# sourceMappingURL=component---src-pages-user-notif-jsx-76cab5802b4eb42960da.js.map
