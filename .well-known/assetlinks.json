@@ -1,0 +1,10 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+        "namespace": "android_app",
+        "package_name": "com.dasawarsalink.dasawarsa_app",
+        "sha256_cert_fingerprints": [
+            "31:C2:5F:F1:EC:03:35:51:AD:CC:66:FD:49:57:5B:7E:9B:72:E0:3C:04:56:51:DC:09:F8:DD:5B:D2:3A:AC:28"
+        ]
+    }
+}]
