@@ -2,9 +2,18 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
         "namespace": "android_app",
-        "package_name": "com.dasawarsalink.dasawarsa_app",
+        "package_name": "id.dasawarsalink.dasawarsa_app",
         "sha256_cert_fingerprints": [
             "31:C2:5F:F1:EC:03:35:51:AD:CC:66:FD:49:57:5B:7E:9B:72:E0:3C:04:56:51:DC:09:F8:DD:5B:D2:3A:AC:28"
+        ]
+    }
+}, {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+        "namespace": "android_app",
+        "package_name": "id.dasawarsalink.dasawarsa_app",
+        "sha256_cert_fingerprints": [
+            "07:4F:D8:E7:A0:23:B9:E9:8E:D0:33:15:DA:D1:09:59:3C:D1:BB:16:85:42:A2:35:16:78:12:38:AF:51:7E:E7"
         ]
     }
 }]
